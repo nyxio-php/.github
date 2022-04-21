@@ -14,4 +14,5 @@ Server part based on [Open Swoole](https://openswoole.com/docs).
 ...or join me and help create comfortable framework for developers.
 
 <hr/>
+
 See [documentation](https://github.com/nyxio-php/docs) for more information.
