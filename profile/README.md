@@ -7,7 +7,7 @@ A lot Attributes, Enums and more other cool things
 
 ### Open Swoole server ⚡️
 Server part based on [Open Swoole](https://openswoole.com/docs). 
-<br>High-performance server, Queue and Cron jobs? Nyxio has this.
+<br>High-performance server, async Queue and Cron jobs? `nyxio` has this.
 
 
 ### Just try it 🌈
