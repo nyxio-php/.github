@@ -16,4 +16,4 @@ Server part based on [Open Swoole](https://openswoole.com/docs).
 
 <br>
 <br>
-See [documentation](https://github.com/nyxio-php/docs) for more information.
+See [Documentation](https://github.com/nyxio-php/docs) for more information.
