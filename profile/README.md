@@ -1,8 +1,8 @@
 ## nyxio 🚀 
-Async PHP microframework based on Open Swoole.
+Async PHP **microframework** based on Open Swoole.
 
 ### PHP 8.1 support 😎
-A lot Attributes, Enums and more other cool things
+A lot Attributes, Enums and many others cool things
 
 
 ### Open Swoole server ⚡️
