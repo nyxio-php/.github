@@ -24,4 +24,4 @@ See [documentation](https://github.com/nyxio-php/docs) for more information.
 
 
 
-[![Version](http://poser.pugx.org/nyxio/nyxio/version)](https://packagist.org/packages/nyxio/nyxio)
+[![Latest Stable Version](http://poser.pugx.org/nyxio/nyxio/v)](https://packagist.org/packages/nyxio/nyxio)
