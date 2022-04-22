@@ -1,6 +1,6 @@
 ## nyxio 🚀 
 <p align="center">
-  <img src="hhttps://github.com/nyxio-php/.github/blob/main/profile/logo.png" width="150"/>
+  <img src="https://github.com/nyxio-php/.github/blob/main/profile/logo.png?raw=true" width="150"/>
 </p>
   
 
