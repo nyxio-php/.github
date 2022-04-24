@@ -7,7 +7,7 @@
 Async PHP **microframework** based on Open Swoole.
 
 ### PHP 8.1 support 😎
-A lot of Attributes, Enums and many others cool things.
+A lot of [Attributes](https://stitcher.io/blog/attributes-in-php-8), [Enums](https://stitcher.io/blog/php-enums) and many others cool things.
 
 
 ### Open Swoole server ⚡️
